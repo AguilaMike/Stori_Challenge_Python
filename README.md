@@ -7,8 +7,8 @@ Este proyecto implementa una solución para el desafío técnico de Stori. Proce
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    cd <NOMBRE_DEL_PROYECTO>
+    git clone https://github.com/AguilaMike/Stori_Challenge_Python.git
+    cd Stori_Challenge_Python
     ```
 
 2.  **Crear un entorno virtual (opcional pero recomendado):**
